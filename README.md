@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Felix Maati learning full-stack web developement. 
+
+🌐 Tech Stack: React | Node.js | REST | MySQL | Sequelize.js
+
+Let's turn caffeine into code and dreams into digital reality! 💻✨
+
+
 
 <!--
 **MaatiTheDev/MaatiTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
