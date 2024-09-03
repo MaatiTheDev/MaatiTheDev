@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Felix Maati learning full-stack web developement. 
 
-🌐 Tech Stack: React | Node.js | REST | MySQL | Sequelize.js
+🌐 Tech Stack: React | Node.js | REST | MySQL | Sequelize.js | python
 
 Let's turn caffeine into code and dreams into digital reality! 💻✨
 
